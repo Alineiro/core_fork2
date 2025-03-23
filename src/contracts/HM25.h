@@ -16,22 +16,6 @@
 #include "logging/logging.h"
 #include "common_buffers.h"
 
-
-vdf vfd
-
-dvf b
-sfvb
-
-g
-gb
-dfgb
-dxfnh
- gd
-
-
-
-
-
 using namespace QPI;
 
 struct Escrow
