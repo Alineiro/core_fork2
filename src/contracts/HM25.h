@@ -1,3 +1,21 @@
+#pragma once
+
+#include "public_settings.h"
+
+#include "contracts/qpi.h"
+
+#include "platform/global_var.h"
+#include "platform/read_write_lock.h"
+#include "platform/debugging.h"
+#include "platform/memory.h"
+
+#include "contract_core/contract_def.h"
+#include "contract_core/stack_buffer.h"
+#include "contract_core/contract_action_tracker.h"
+
+#include "logging/logging.h"
+#include "common_buffers.h"
+
 using namespace QPI;
 
 struct Escrow
